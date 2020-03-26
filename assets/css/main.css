@@ -2363,9 +2363,9 @@ input, select, textarea {
 /* Video */
 	.video {   
 		position: relative;
-		width: 100%;
+		width: 60%;
 		height: 0;
-		padding-bottom: 56%; 
+		padding-bottom: 33.6%; 
 	}   
 		  
 		.video iframe {   
